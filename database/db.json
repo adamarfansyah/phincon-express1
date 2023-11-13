@@ -1,0 +1,99 @@
+{
+  "employee": {
+    "divisi": [
+      {
+        "name": "Anies Prakoso",
+        "salary": -1000,
+        "married": false,
+        "divisi": "Humas",
+        "status": "internship"
+      },
+      {
+        "name": "Sumanto",
+        "salary": 0,
+        "married": true,
+        "divisi": "Catering",
+        "status": "internship"
+      },
+      {
+        "name": "Uus",
+        "salary": 2000,
+        "married": false,
+        "divisi": "Acara",
+        "status": "internship"
+      },
+      {
+        "name": "test",
+        "salary": 9999999,
+        "married": false,
+        "divisi": "Information Technology",
+        "status": "employee"
+      },
+      {
+        "name": "test123",
+        "salary": 9999999,
+        "married": false,
+        "divisi": "Information Technology",
+        "status": "contract"
+      },
+      {
+        "name": "CawCaw",
+        "salary": 9999999,
+        "married": false,
+        "divisi": "Information Technology",
+        "status": "employee"
+      },
+      {
+        "name": "AdamSakeArfansyah",
+        "salary": 9999999999,
+        "married": false,
+        "divisi": "Information Technology",
+        "status": "employee"
+      }
+    ],
+    "projectList": [
+      {
+        "name": "PT sejahtera anti goyang",
+        "deadline": "12 Februari 3025",
+        "clientName": "Andre",
+        "project": "App",
+        "status": "done"
+      },
+      {
+        "name": "Telkomshell",
+        "deadline": "12 Februari 2024",
+        "clientName": "Jaja Miharja",
+        "project": "Website",
+        "status": "ongoing"
+      },
+      {
+        "name": "Parfum UMKM",
+        "deadline": "12 Februari 2025",
+        "clientName": "Sule Sutisna",
+        "project": "Website",
+        "status": "done"
+      },
+      {
+        "name": "XLAxiata",
+        "deadline": "12 Februari 2222",
+        "clientName": "Wadu",
+        "project": "App",
+        "status": "done"
+      },
+      {
+        "name": "Rumah Sakti Berjalan Sendiri",
+        "deadline": "12 Februari 2222",
+        "clientName": "Wadu",
+        "project": "App",
+        "status": "ongoing"
+      }
+    ]
+  },
+  "companyList": [
+    { "name": "PT.Phincon", "description": "Konsultan IT" },
+    { "name": "PT.Effist", "description": "Konsultan IT" },
+    { "name": "PT.AdamSakeA", "description": "Real Estate" },
+    { "name": "PT.OlenSetaiSentosa", "description": "Judi Online Legal" },
+    { "name": "PT Seru Abis", "description": "Seru terus, gaji aman lancar, cuti aman" }
+  ]
+}
